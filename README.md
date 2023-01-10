@@ -1,5 +1,11 @@
 ### joseph13ko15 👋
 
+Hello, My name is joseph13ko15
+
+I like various feild of programming~
+
+
+
 <!--
 **python-programmer1512/python-programmer1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +22,9 @@ Here are some ideas to get you started:
 -->
 
 
-#### Awards
+#### Awards 🥇
 
-##### 제 4회 한국 코드페어 해커톤 부분 대상(장관상)
-
-##### 2020 nypc 본선진출
+##### 제 4회 한국 코드페어 해커톤 부분 대상
 
 ##### 2021 충북 올림피아드 은상
 
@@ -36,15 +40,23 @@ Here are some ideas to get you started:
 
 ##### 2022 충북컴퓨터꿈나무축제 SW제작 시대회 은상
 
-##### 2022 충북컴퓨터꿈나무축제 SW제작 도대회 은상(3등)
+##### 2022 충북컴퓨터꿈나무축제 SW제작 도대회 은상
 
-##### 2022 충북SW해커톤페스티벌  교육연구정보원장상
+##### 2022 충북SW해커톤페스티벌 교육연구정보원장상
 
 
-#### Contact
+#### Contact 📫
+
+#### mail : joseph13ko15@gmail.com
 
 ##### blog : https://joseph0528.tistory.com/
 
 ##### youtube : https://www.youtube.com/channel/UCjgw1YDWhk-d7_tVDXAs0Zw
 
 ##### solved.ac : https://solved.ac/
+
+#### codeforces : papergundam13579
+
+#### discord : 건충#4944
+
+
