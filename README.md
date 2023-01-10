@@ -6,6 +6,8 @@ I like various feild of programming~
 
 
 
+
+
 <!--
 **python-programmer1512/python-programmer1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,6 +45,8 @@ Here are some ideas to get you started:
   ##### 2022 충북컴퓨터꿈나무축제 SW제작 도대회 은상
 
   ##### 2022 충북SW해커톤페스티벌 교육연구정보원장상
+  
+  
 
 
 #### Contact 📫
