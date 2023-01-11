@@ -1,4 +1,4 @@
-### joseph13ko15 👋
+### [joseph13ko15](https://github.com/python-programmer1512) 👋
 
 Hello, My name is joseph13ko15
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
   ##### youtube : https://www.youtube.com/channel/UCjgw1YDWhk-d7_tVDXAs0Zw
 
-  ##### solved.ac : https://solved.ac/
+  ##### solved.ac : [https://solved.ac/](https://solved.ac/profile/joseph0528)
 
   #### codeforces : papergundam13579
 
