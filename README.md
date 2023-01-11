@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
   ##### youtube : https://www.youtube.com/channel/UCjgw1YDWhk-d7_tVDXAs0Zw
 
-  ##### solved.ac : [https://solved.ac/](https://solved.ac/profile/joseph0528)
+  ##### solved.ac : [joseph0528](https://solved.ac/profile/joseph0528)
 
   #### codeforces : papergundam13579
 
