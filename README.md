@@ -5,6 +5,17 @@ Hello, My name is joseph13ko15
 I like various feild of programming~
 
 
+#### 사용 가능한 언어⭕
+#####python
+
+#####C++
+
+#####Js
+
+#### 배울 예정인 언어📝
+
+#### css,java,rust,kotlin,react 등
+
 
 
 
