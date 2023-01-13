@@ -7,11 +7,11 @@ I like various feild of programming~
 
 #### 사용 가능한 언어⭕
 
-  #####python
+  ##### python
 
-  #####C++
+  ##### C++
 
-  #####Js
+  ##### Js
 
 #### 배울 예정인 언어📝
 
