@@ -6,15 +6,16 @@ I like various feild of programming~
 
 
 #### 사용 가능한 언어⭕
-#####python
 
-#####C++
+  #####python
 
-#####Js
+  #####C++
+
+  #####Js
 
 #### 배울 예정인 언어📝
 
-#### css,java,rust,kotlin,react 등
+  ##### css,java,rust,kotlin,react 등
 
 
 
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 
 #### Contact 📫
 
-  #### mail : joseph13ko15@gmail.com
+  ##### mail : joseph13ko15@gmail.com
 
   ##### blog : https://joseph0528.tistory.com/
 
@@ -56,8 +57,8 @@ Here are some ideas to get you started:
 
   ##### solved.ac : [joseph0528](https://solved.ac/profile/joseph0528)
 
-  #### codeforces : papergundam13579
+  ##### codeforces : papergundam13579
 
-  #### discord : 건충#4944
+  ##### discord : 건충#4944
 
 
