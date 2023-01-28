@@ -11,7 +11,7 @@ I like various feild of programming~
 
 #### 배울 예정인 언어📝
 
-  ##### css,java,rust,kotlin,react 등
+  ##### css,rust,kotlin,react 등
 
 
 
