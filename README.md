@@ -9,7 +9,7 @@ I like various feild of programming~
 
   ##### python, C++, Js
 
-#### 배울 예정인 언어📝
+#### 배울 예정📝
 
   ##### css,rust,kotlin,react 등
 
