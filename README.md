@@ -3,7 +3,6 @@
 
 Hello, My name is KWG07
 
-I like various feild of programming~
 
 
 #### 사용 가능한 언어⭕
