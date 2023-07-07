@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 #### Awards 🥇
 
   ##### 제 4회 한국 코드페어 해커톤 부분 대상
+  ##### 2022 Korean Code-Fair Hackathon 1st
 
   ##### 2021 한국 정보올림피아드 중등부 본선 동상
 
