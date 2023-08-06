@@ -29,7 +29,6 @@ Hello, My name is KWG07
   ##### css,rust,kotlin,react 등
 -->
 
-### My Profile
 #### Solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joseph0528)](https://solved.ac/joseph0528)
 
