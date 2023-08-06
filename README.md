@@ -13,6 +13,21 @@ Hello, My name is KWG07
 
   ##### css,rust,kotlin,react 등
 
+
+
+#### Awards 🥇
+
+  ##### 제 4회 한국 코드페어 해커톤 부분 대상 ( 2022 Korean Code-Fair Hackathon 1st )
+
+  ##### 2021 한국 정보올림피아드 중등부 본선 동상 ( 2021 KOI middle school finals bronze award )
+
+  ##### 2022 한국 정보올림피아드 중등부 본선 은상 ( 2022 KOI middle school finals silver award )
+
+  ##### 2023 충북 정보올림피아드 중등부 본선 금상 ( 2023 COI high school finals gold award )
+  
+  
+
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joseph0528)](https://solved.ac/joseph0528)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-programmer1512&layout=compact"><br><br>
@@ -34,20 +49,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
-#### Awards 🥇
-
-  ##### 제 4회 한국 코드페어 해커톤 부분 대상 ( 2022 Korean Code-Fair Hackathon 1st )
-
-  ##### 2021 한국 정보올림피아드 중등부 본선 동상 ( 2021 KOI middle school finals bronze award )
-
-  ##### 2022 한국 정보올림피아드 중등부 본선 은상 ( 2022 KOI middle school finals silver award )
-
-  ##### 2023 충북 정보올림피아드 중등부 본선 금상 ( 2023 COI high school finals gold award )
-  
-  
 
 
 
