@@ -3,18 +3,6 @@
 
 Hello, My name is KWG07
 
-
-
-#### 사용 가능한 언어⭕
-
-  ##### python, C++, Js
-
-#### 배울 예정📝
-
-  ##### css,rust,kotlin,react 등
-
-
-
 #### Awards 🥇
 
   ##### 제 4회 한국 코드페어 해커톤 부분 대상 ( 2022 Korean Code-Fair Hackathon 1st )
@@ -26,13 +14,20 @@ Hello, My name is KWG07
   ##### 2023 충북 정보올림피아드 중등부 본선 금상 ( 2023 COI high school finals gold award )
 
 
+#### 사용 가능한 언어⭕
 
-####
-  
+  ##### python, C++, Js
+
+#### 배울 예정📝
+
+  ##### css,rust,kotlin,react 등
 
 
+### My Profile
+#### Solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joseph0528)](https://solved.ac/joseph0528)
 
+#### activity
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-programmer1512&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=python-programmer1512&show_icons=true">
 
