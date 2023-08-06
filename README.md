@@ -3,6 +3,8 @@
 
 Hello, My name is KWG07
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpython-programmer1512&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 #### Awards 🥇
 
   ##### 제 4회 한국 코드페어 해커톤 부분 대상 ( 2022 Korean Code-Fair Hackathon 1st )
@@ -28,7 +30,8 @@ Hello, My name is KWG07
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joseph0528)](https://solved.ac/joseph0528)
 
 #### activity
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-programmer1512&layout=compact"><br><br>  <img src="https://github-readme-stats.vercel.app/api?username=python-programmer1512&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-programmer1512&layout=compact"><br><br>  
+<img src="https://github-readme-stats.vercel.app/api?username=python-programmer1512&show_icons=true">
 
 
 <!--
@@ -62,6 +65,3 @@ Here are some ideas to get you started:
   ##### codeforces : papergundam13579
 
   ##### discord : 건충#4944
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpython-programmer1512&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
