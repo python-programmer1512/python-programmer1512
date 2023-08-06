@@ -16,7 +16,7 @@ Hello, My name is KWG07
   ##### 2023 충북 정보올림피아드 중등부 본선 금상 ( 2023 COI high school finals gold award )
 
 
-#### 사용 가능한 언어⭕
+#### Use Language
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pytorch-EE4C2Ch?style=flat&logo=PyTorch&logoColor=white" />
