@@ -19,7 +19,7 @@ Hello, My name is KWG07
 #### Use Language 🛠️
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pytorch-EE4C2Ch?style=flat&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
 </div>
 
