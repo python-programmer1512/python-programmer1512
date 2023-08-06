@@ -15,8 +15,8 @@ Hello, My name is KWG07
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joseph0528)](https://solved.ac/joseph0528)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KWG07&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=KWG07&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-programmer1512&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=python-programmer1512&show_icons=true">
 
 
 <!--
