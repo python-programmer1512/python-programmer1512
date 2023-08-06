@@ -13,7 +13,10 @@ Hello, My name is KWG07
 
   ##### css,rust,kotlin,react 등
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joseph0528)](https://solved.ac/joseph0528)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KWG07&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=KWG07&show_icons=true">
 
 
 <!--
@@ -62,6 +65,4 @@ Here are some ideas to get you started:
 
   ##### discord : 건충#4944
 
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joseph0528)](https://solved.ac/joseph0528)
 
