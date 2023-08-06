@@ -18,12 +18,10 @@ Hello, My name is KWG07
 
 #### 사용 가능한 언어⭕
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=C++&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=JAVA&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=C++&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=JAVA&logoColor=white" />
 
 <!--
 #### 배울 예정📝
