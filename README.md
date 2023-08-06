@@ -63,6 +63,5 @@ Here are some ideas to get you started:
   ##### discord : 건충#4944
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={joseph0528})](https://solved.ac/{joseph0528})
 
