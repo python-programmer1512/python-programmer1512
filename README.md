@@ -20,10 +20,11 @@ Hello, My name is KWG07
 
   ##### python, C++, Js
 
+<!--
 #### 배울 예정📝
 
   ##### css,rust,kotlin,react 등
-
+-->
 
 ### My Profile
 #### Solved.ac
