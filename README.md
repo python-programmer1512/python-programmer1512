@@ -13,7 +13,7 @@ Hello, My name is KWG07
 
   ##### 2022 한국 정보올림피아드 중등부 본선 은상 ( 2022 KOI middle school finals silver award )
 
-  ##### 2023 충북 정보올림피아드 중등부 본선 금상 ( 2023 COI high school finals gold award )
+  ##### 2023 충북 정보올림피아드 고등부 본선 금상 ( 2023 COI high school finals gold award )
 
 
 #### Use Language 🛠️
