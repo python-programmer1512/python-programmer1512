@@ -33,7 +33,7 @@ Hello, My name is KWG07
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />
 </div>
 
-#### Library & Hardware
+#### Library & Hardware 🖥️
 <div>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Sqlalchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
