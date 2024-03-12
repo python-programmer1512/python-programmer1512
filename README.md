@@ -12,7 +12,7 @@ Hello, My name is KWG07
   ##### 제 5회 한국 코드페어 해커톤 부분 대상 ( 2023 Korean Code-Fair Hackathon 1st )  
   
   ##### 2023 SW미래채움 자율주행 부분 1등 ( 2023 SW Future Filling autonomous driving 1st )
-
+  
   ##### 2023 충북 정보올림피아드 고등부 본선 금상 ( 2023 COI high school finals gold award )
 
   ##### 2022 한국 정보올림피아드 중등부 본선 은상 ( 2022 KOI middle school finals silver award )
