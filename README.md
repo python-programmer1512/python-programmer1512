@@ -42,6 +42,7 @@ Hello, My name is KWG07
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />
+<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white" />
 </div>
 
 #### Library & Hardware 🖥️
@@ -51,11 +52,21 @@ Hello, My name is KWG07
 <img src="https://img.shields.io/badge/Fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/flask-3BABC3?style=flat&logo=flask&logoColor=white" />
 </div>
 
 #### Operating Servies
 
-##### UNHO MATHGAME Developer (2024 ~ )
+##### UNHO MATHGAME (2024 ~ )
+
+##### Medicine Safe Dose Service (2023 ~ 2023)
+
+#### Preparing Servies
+
+##### Real Autonomous Vehicle (???? ~ )
+
+
 
 <!--
 #### 배울 예정📝
