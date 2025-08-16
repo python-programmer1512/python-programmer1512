@@ -63,13 +63,15 @@ I work not only on software but also on hardware development, and I am a student
 <img src="https://img.shields.io/badge/flask-3BABC3?style=flat&logo=flask&logoColor=white" />
 </div>
 
-#### Operating Servies
+#### Operating Servies ⏩
 
 ##### UNHO MATHGAME (2024 ~ )
 
+#### Stop Servies 🚫
+
 ##### Medicine Safe Dose Service (2023 ~ 2023)
 
-#### Preparing Servies
+#### Preparing Servies  🕒
 
 ##### Real Autonomous Vehicle (???? ~ )
 
