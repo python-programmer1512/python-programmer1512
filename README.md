@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+
+
 ### [About KWG07]([https://github.com/python-programmer1512](https://python-programmer1512.github.io/KWG07.github.io/)) 👋
 (2023.01.27, joseph13ko15 -> KWG07)
 
