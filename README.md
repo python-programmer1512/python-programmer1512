@@ -7,6 +7,11 @@
 
 Hello, My name is KWG07
 
+I am an AI developer, but I also develop web and mobile applications. 
+
+I work not only on software but also on hardware development, and I am a student developer seeking to pursue StartUp.
+
+
 
 #### Awards 🥇
 
@@ -42,7 +47,9 @@ Hello, My name is KWG07
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />
-<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
+<img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white" />
 </div>
 
 #### Library & Hardware 🖥️
