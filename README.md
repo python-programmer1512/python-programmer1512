@@ -12,7 +12,6 @@ I am an AI developer, but I also develop web and mobile applications.
 I work not only on software but also on hardware development, and I am a student developer seeking to pursue StartUp.
 
 
-
 #### Awards 🥇
 
   ##### 2024 대한민국 인재상 수상 ( 2024 Talent Award of Korea )
@@ -82,22 +81,6 @@ I work not only on software but also on hardware development, and I am a student
 ![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=python-programmer1512)
 
 
-<!--
-**python-programmer1512/python-programmer1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 
 
 #### Contact 📫
@@ -108,6 +91,6 @@ Here are some ideas to get you started:
 
   ##### youtube : https://www.youtube.com/channel/UCjgw1YDWhk-d7_tVDXAs0Zw
 
-  ##### codeforces : papergundam13579
+  ##### codeforces : [papergundam13579](https://codeforces.com/profile/papergundam)
 
   ##### discord : 건충#4944
