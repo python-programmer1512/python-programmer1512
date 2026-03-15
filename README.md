@@ -44,11 +44,8 @@ I work not only on software but also on hardware development, and I am a student
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
-<img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white" />
 </div>
 
@@ -59,7 +56,6 @@ I work not only on software but also on hardware development, and I am a student
 <img src="https://img.shields.io/badge/Fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/flask-3BABC3?style=flat&logo=flask&logoColor=white" />
 </div>
 
@@ -77,18 +73,11 @@ I work not only on software but also on hardware development, and I am a student
 ##### Real Autonomous Vehicle (???? ~ )
 
 
-
-<!--
-#### 배울 예정📝
-
-  ##### css,rust,kotlin,react 등
--->
-
 #### Solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joseph0528)](https://solved.ac/joseph0528)
 
 #### activity
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-programmer1512&layout=compact"><br><br>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-programmer1512&layout=compact"><img src="https://github-readme-stats.vercel.app/api?username=python-programmer1512&show_icons=true"><br><br>  
 <img src="https://github-readme-stats.vercel.app/api?username=python-programmer1512&show_icons=true">
 
 ![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=python-programmer1512)
