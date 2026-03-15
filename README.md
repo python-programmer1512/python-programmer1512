@@ -24,18 +24,11 @@ I work not only on software but also on hardware development, and I am a student
 
   ##### 2023 한국 정보올림피아드 고등부 예선 은상 ( 2022 KOI high school finals silver award )
 
-  ##### 2023 한국 정보올림피아드 고등부 본선 장려상 ( 2022 KOI high school finals encouragement award )
+  ##### 2025 한국 정보올림피아드 고등부 본선 장려상 ( 2022 KOI high school finals encouragement award )
 
   ##### 2022 한국 정보올림피아드 중등부 본선 은상 ( 2022 KOI middle school finals silver award )
 
   ##### 2021 한국 정보올림피아드 중등부 본선 동상 ( 2021 KOI middle school finals bronze award )
-
-  ##### 2025 충북 정보올림피아드 고등부 본선 대상 ( 2025 COI high school finals grand prize )
-
-  ##### 2023 충북 정보올림피아드 고등부 본선 금상 ( 2023 COI high school finals gold award )
-
-
-  
 
 
 #### Use Language🛠️
