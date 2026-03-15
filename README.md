@@ -77,8 +77,7 @@ I work not only on software but also on hardware development, and I am a student
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joseph0528)](https://solved.ac/joseph0528)
 
 #### activity
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-programmer1512&layout=compact"><img src="https://github-readme-stats.vercel.app/api?username=python-programmer1512&show_icons=true"><br><br>  
-<img src="https://github-readme-stats.vercel.app/api?username=python-programmer1512&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-programmer1512&layout=compact"><br><img src="https://github-readme-stats.vercel.app/api?username=python-programmer1512&show_icons=true"><br> 
 
 ![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=python-programmer1512)
 
